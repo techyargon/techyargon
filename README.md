@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Argon
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Python
 - 📫 Mail me at techyargon@gmail.com
