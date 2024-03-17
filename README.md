@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Argon
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Advance Javascript
 - 📫 Mail me at techyargon@gmail.com
